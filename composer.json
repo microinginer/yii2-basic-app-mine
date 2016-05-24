@@ -27,7 +27,8 @@
         "microinginer/yii2-human-formatter": "dev-master",
         "intervention/image": "^2.3",
         "creocoder/yii2-taggable": "^2.0",
-        "2amigos/yii2-selectize-widget": "^1.0"
+        "2amigos/yii2-selectize-widget": "^1.0",
+        "2amigos/yii2-ckeditor-widget": "*"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
