@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
+    "name": "microinginer/yii2-app-basic-for-me",
+    "description": "Yii 2 Basic Project Template For Me",
+    "keywords": ["yii2", "framework", "basic", "project template","for me"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
